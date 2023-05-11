@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5e644e3-31cc-486f-afe8-f246de563eaa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/aurna/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/aurna/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/aurna/UrnaElectoral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/bejemplos/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/bejemplos/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/bejemplos/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/fextends/Barril.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/fextends/Cajon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/fextends/Contenedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/fextends/Refrigerador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/fextends/RefrigeradorDeBariles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/fextends/Sabor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/fextends/Stockeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/glistas/EmpleadosPorApellido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GENERICS-Y-TDAS-EN-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GENERICS-Y-TDAS-EN-JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/aurna/TestUrna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/aurna/TestUrna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/aurna/Urna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/aurna/Urna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/bejemplos/ListadorDeArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/bejemplos/ListadorDeArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/cinterfaces/TestCaja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/cinterfaces/TestCaja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/danidados/TestCaja1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/danidados/TestCaja1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/danidados/TestCaja2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/danidados/TestCaja2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/epilas/ATiposSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/epilas/ATiposSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/epilas/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/epilas/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/epilas/BObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/epilas/BObjetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/fcolas/ATiposSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/fcolas/ATiposSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/fcolas/BObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/fcolas/BObjetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/fcolas/CRecorrerCola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/fcolas/CRecorrerCola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/fcolas/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/fcolas/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/glistas/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/glistas/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/glistas/TestListaOrdenada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/tda/glistas/TestListaOrdenada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ort/tp1/u5/tda/test/listas/TestListaOrdenada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ort/tp1/u5/tda/test/listas/TestListaOrdenada.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PcRCExdg9E31mL0swSkvWIcGEU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "/Users/sojeda/Downloads/GENERICS-Y-TDAS-EN-JAVA/src/ar/edu/ort/tp1/unidad5/generics/fextends",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ar/edu/ort/tp1/unidad5/generics/fextends" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ar.edu.ort.tp1.unidad5.generics.fextends" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestCaja2">
+    <configuration name="TestCaja1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ar.edu.ort.tp1.unidad5.generics.danidados.TestCaja1" />
+      <module name="GENERICS-Y-TDAS-EN-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.ort.tp1.unidad5.generics.danidados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaja2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ar.edu.ort.tp1.unidad5.generics.danidados.TestCaja2" />
+      <module name="GENERICS-Y-TDAS-EN-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.ort.tp1.unidad5.generics.danidados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUrna" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ar.edu.ort.tp1.unidad5.generics.aurna.TestUrna" />
+      <module name="GENERICS-Y-TDAS-EN-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.ort.tp1.unidad5.generics.aurna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCaja2" />
+        <item itemvalue="Application.TestCaja1" />
+        <item itemvalue="Application.TestUrna" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5e644e3-31cc-486f-afe8-f246de563eaa" name="Changes" comment="" />
+      <created>1683754261838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683754261838</updated>
+      <workItem from="1683754263098" duration="869000" />
+      <workItem from="1683755703047" duration="7107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

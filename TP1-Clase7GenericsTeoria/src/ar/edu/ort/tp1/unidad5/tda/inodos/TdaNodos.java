@@ -1,0 +1,63 @@
+package ar.edu.ort.tp1.unidad5.tda.inodos;
+
+import ar.edu.ort.tp1.unidad5.tda.hinterfaces.Tda;
+
+public class TdaNodos<T> implements Tda {
+
+    protected Nodo<T> first;
+    private final int limite;
+    private int currentSize;
+
+    protected TdaNodos() {
+        this(SIN_LIMITE);
+    }
+
+    protected TdaNodos(int limite) {
+        if (limite != SIN_LIMITE && limite < LIMITE_MINIMO_POSIBLE) {
+            throw new IllegalArgumentException(ERR_TAM_ILEGAL);
+        }
+        this.limite = limite;
+        this.first = null;
+        this.currentSize = 0;
+    }
+
+    protected void incrementSize() {
+        currentSize++;
+    }
+
+    protected void decrementSize() {
+        currentSize--;
+    }
+
+    @Override
+    public void checkEmptiness() throws RuntimeException {
+        if (isEmpty()) {
+            throw new RuntimeException(
+                    String.format(ERR_ESTRUCTURA_VACIA, this.getClass().getInterfaces()[0].getSimpleName()));
+        }
+    }
+
+    @Override
+    public void checkFullness() throws RuntimeException {
+        if (isFull()) {
+            throw new RuntimeException(
+                    String.format(ERR_ESTRUCTURA_LLENA, this.getClass().getInterfaces()[0].getSimpleName()));
+        }
+    }
+
+    @Override
+    public boolean isEmpty() {
+        return currentSize == 0;
+    }
+
+    @Override
+    public boolean isFull() {
+        return currentSize == limite;
+    }
+
+    @Override
+    public int size() {
+        return currentSize;
+    }
+
+}
